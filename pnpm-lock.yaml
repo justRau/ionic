@@ -38,7 +38,7 @@ importers:
       prettier: 2.7.1
       release-it: 15.5.0
       typescript: 4.9.3
-      ufo: ^0.8.6
+      ufo: ^1.0.0
       unimport: ^0.7.0
       vitest: 0.25.2
       vue: 3.2.45
@@ -53,7 +53,7 @@ importers:
       ionicons: 6.0.3
       pathe: 0.3.9
       pkg-types: 0.3.6
-      ufo: 0.8.6
+      ufo: 1.0.0
       unimport: 0.7.0
     devDependencies:
       '@nuxt/module-builder': 0.2.0
@@ -1047,7 +1047,7 @@ packages:
       '@docsearch/js': 3.3.0
       '@fontsource/inter': 4.5.14
       '@iconify/vue': 4.0.0
-      '@nuxt/content': /@nuxt/content-edge/2.2.2-27808834.a58e766
+      '@nuxt/content': /@nuxt/content-edge/2.2.2-27809846.d9bd2f2
       '@nuxtjs/algolia': 1.1.4
       '@nuxtjs/color-mode': 3.1.8
       '@nuxtjs/tailwindcss': 5.3.5
@@ -1081,8 +1081,8 @@ packages:
       - webpack
     dev: true
 
-  /@nuxt/content-edge/2.2.2-27808834.a58e766:
-    resolution: {integrity: sha512-//lfGeIAOlXDRCDfNRAyEUYMSB0dI+l6Az53l3+j1WmU4hosAPmgxcLxNFbr4XSeEuPa0KjV+VhPUWrZCLnxPg==}
+  /@nuxt/content-edge/2.2.2-27809846.d9bd2f2:
+    resolution: {integrity: sha512-x383Y3k79GYw3LNdrr9YhOeTiU2INgUghs5Ix4LUBAt0HlCiRBHXJixHrPKiCt11C1J7KALbd3Zr6qlbDkFJ3A==}
     dependencies:
       '@nuxt/kit': 3.0.0-rc.13
       consola: 2.15.3
@@ -11438,7 +11438,6 @@ packages:
 
   /ufo/1.0.0:
     resolution: {integrity: sha512-DRty0ZBNlJ2R59y4mEupJRKLbkLQsc4qtxjpQv78AwEDuBkaUogMc2LkeqW3HddFlw6NwnXYfdThEZOiNgkmmQ==}
-    dev: true
 
   /uglify-js/3.17.4:
     resolution: {integrity: sha512-T9q82TJI9e/C1TAxYvfb16xO120tMVFZrGA3f9/P4424DNu6ypK103y0GPFVa17yotwSyZW5iYXgjYHkGrJW/g==}
